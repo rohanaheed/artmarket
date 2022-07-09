@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import "./App.css";
+import "./global.css";
 import { Route, Switch, useHistory } from "react-router-dom";
 import Web3 from "web3";
 import { Web3ReactProvider } from '@web3-react/core'
